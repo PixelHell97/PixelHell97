@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/PixelHell97/PixelHell97/output/snake.svg](https://raw.githubusercontent.com/PixelHell97/PixelHell97/main/.github/workflows/snake.yml)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PixelHell97/PixelHell97/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
